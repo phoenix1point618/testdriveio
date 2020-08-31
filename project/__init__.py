@@ -1,6 +1,5 @@
 from flask import Flask, jsonify
 from flask_restx import Resource, Api
-#test
 
 # instantiate the app
 app = Flask(__name__)
